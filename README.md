@@ -1,1 +1,1 @@
-# Volcanic SO2 emission effect on the weather.
+# Impact of Volcanic Gases (SO<sub>2</sub>emission) on weather.
