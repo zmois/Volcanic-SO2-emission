@@ -10,11 +10,11 @@ This project is studying the impact of Volcanic Gases (SO<sub>2</sub> emission) 
 ## Installation
 Install the following packages from the terminal or in Anaconda Navigator
 
-pandas 
-numpy 
-matplotlib 
-seaborn  
-geopandas
+- pandas 
+- numpy 
+- matplotlib 
+- seaborn  
+- geopandas
 
 
 
