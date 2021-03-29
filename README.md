@@ -1,6 +1,12 @@
 **Code Louisville Data Science with Python Project**
 This project is studying the impact of Volcanic Gases (SO<sub>2</sub> emission) on weather in Italy, using Etna volcano as an example. This is not a science project, but a small Data Science project that used a limited data - please don’t judge too hard.
 
+All data about volcanoes comes from Smithsonian Institution Natural Museum of Natural History Global Volcanism Program
+https://volcano.si.edu/
+
+All historical climate data from the Climate Change Knowledge Portal by the World Bank Group
+https://climateknowledgeportal.worldbank.org/
+
 ## Requirements
 - Python 3.6 or newer
 To check the installed Python version type `python3 –version` in the terminal. The latest Python version can be installed from here.
@@ -17,7 +23,7 @@ Next, install all the packages listed above manually
  - matplotlib
  - seaborn
  - geopandas<br> 
-**Note:** of geopandas v0.8.1 would only work with Python 3.7
+**Note:** Geopandas package v0.8.1 would only work with Python 3.7
 
 ***Alternative for experienced Python users*** is to install Jupyter Notebook with pip3 `pip3 install jupyter`
 - Create and activate the virtual environment, follow the instructions on how do it for different OS <a href=https://docs.python.org/3/library/venv.html> here</a><br>
@@ -29,14 +35,7 @@ Then install the following packages from the terminal using the pip commands
  - pip3 install geopandas 
 
 ## Running Jupyter Notebook
-From the navigator's home click on the "Launch" button under Jupyter tab. This will open jupyter on a browser.
-Go in a working directory (choose the folder name or create a new one) and copy in there the jupyter notebook code examples (.ipynb files plus the input data file when needed). 
-Or 
-launch Jupyter Notebook in the terminal with `jupyter notebook` command
-
-
-
-
-
-
+1. From the navigator's home click on the "Launch" button under Jupyter tab or Jupyter Lab. 
+Or launch Jupyter Notebook in the terminal with `jupyter notebook` command. This will open Jupyter on a browser.
+2. Go into working directory, open the ipynb file and run all cells.
 
