@@ -36,6 +36,6 @@ Then install the following packages from the terminal using the pip commands
 
 ## Running Jupyter Notebook
 1. From the navigator's home click on the "Launch" button under Jupyter tab or Jupyter Lab. 
-Or launch Jupyter Notebook in the terminal with `jupyter notebook` command. This will open Jupyter on a browser.
+**OR** launch Jupyter Notebook in the terminal with `jupyter notebook` command. This will open Jupyter on a browser.
 2. Go into working directory, open the ipynb file and run all cells.
 
