@@ -1,4 +1,4 @@
-**Code Louisville Data Science with Python Project**
+**Code Louisville Data Science with Python Project**<br>
 This project is studying the impact of Volcanic Gases (SO<sub>2</sub> emission) on weather in Italy, using Etna volcano as an example. This is not a science project, but a small Data Science project that used a limited data - please don’t judge too hard.
 
 All data about volcanoes comes from Smithsonian Institution Natural Museum of Natural History Global Volcanism Program
