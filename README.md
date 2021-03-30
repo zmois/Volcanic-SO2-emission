@@ -8,7 +8,7 @@ All historical climate data from the Climate Change Knowledge Portal by the Worl
 https://climateknowledgeportal.worldbank.org/
 
 ## Requirements
-- Python 3.6 or newer
+- Python 3.6 or newer<br>
 To check the installed Python version type `python3 –version` in the terminal. The latest Python version can be installed from here.
 - Jupyter Notebook
 
