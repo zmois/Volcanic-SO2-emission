@@ -15,7 +15,7 @@ https://climateknowledgeportal.worldbank.org/
 1. Clone or Download the project `git clone https://github.com/zmois/Volcanic-SO2-emission`
 2. The easiest way to install Jupyter Notebooks is to download and install the Anaconda distribution of Python. The Anaconda comes with Jupyter Notebook included and no further installation steps are necessary. Download the "Anaconda" software https://www.anaconda.com/products/individual#download-section
 3. Create a new virtual environment in Anaconda Navigator, step-by-step instructions can be found here https://docs.anaconda.com/anaconda/navigator/tutorials/manage-environments/
-Next, install all the packages listed above manually
+Next, install all the packages listed below manually
 - pandas
 - numpy
 - matplotlib
