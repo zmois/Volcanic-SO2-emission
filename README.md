@@ -28,7 +28,7 @@ Alternative to Anaconda Navigator is to use terminal for creating and activating
 
 ## Running Jupyter Notebook
 1. From the Navigator's home click on the "Launch" button under Jupyter tab. This will open jupyter on a browser.
-2. Go in a working directory (choose the folder name or create a new one) and copy in there the jupyter notebook code examples (.ipynb files plus the input data file when needed). 
- Or
+2. Go in a working directory (choose the folder name or create a new one) and copy in there the jupyter notebook code examples (.ipynb files plus the input data file when needed). <br>
+ Or 
 Launch Jupyter Notebook in the terminal with `jupyter notebook` command.
 
